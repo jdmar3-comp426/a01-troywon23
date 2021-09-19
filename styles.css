@@ -37,3 +37,6 @@ a:hover {
     height: 200px;
     background-color: powderblue;
 }
+.information #title {
+    background-color: pink;
+}
