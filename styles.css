@@ -51,3 +51,7 @@ a:hover {
 article {
     background-color: tomato;
 }
+
+nav ul li p {
+    background-color: violet;
+}
