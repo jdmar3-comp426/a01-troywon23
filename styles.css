@@ -47,3 +47,7 @@ a:hover {
 #title {
     background-color: thistle;
 }
+
+article {
+    background-color: tomato;
+}
