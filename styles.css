@@ -1,0 +1,57 @@
+body {
+    background-color:#ff0000
+}
+
+h1 {
+    color:yellow;
+    text-align:center;
+    border: 5px solid black;
+}
+
+p {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2 {
+    font-family:'Times New Roman', Times, serif;
+}
+
+h3 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+a:hover {
+    background-color: blue;
+}
+
+.information {
+    background-color: #00ff00;
+}
+
+#thank {
+    text-align: center;
+}
+
+.thanks #COMP426 {
+    width: 1500px;
+    height: 200px;
+    background-color: powderblue;
+}
+
+.yo {
+    background-color: teal;
+}
+.title {
+    background-color: teal;
+}
+#title {
+    background-color: thistle;
+}
+
+article {
+    background-color: tomato;
+}
+
+nav ul li p {
+    background-color: violet;
+}
